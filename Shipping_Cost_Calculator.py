@@ -1,4 +1,4 @@
- # Here is a another update by pudgeco
+ # Here is a new update by pudgeco
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
